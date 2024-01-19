@@ -1,0 +1,54 @@
+{
+  "..\\app\\components\\MarketPlaceComponent.tsx -> ../components/commons/Sidebar": {
+    "id": 75270,
+    "files": [
+      "static/chunks/5270.94f2ca038e481ef8.js"
+    ]
+  },
+  "..\\app\\components\\layouts\\DefaultLayout.tsx -> ../commons/Sidebar": {
+    "id": 75270,
+    "files": [
+      "static/chunks/5098.499fc10384eaefbd.js"
+    ]
+  },
+  "..\\node_modules\\@wagmi\\connectors\\dist\\walletConnect.js -> @walletconnect/ethereum-provider": {
+    "id": 20882,
+    "files": [
+      "static/chunks/882.81d977a7782906c5.js"
+    ]
+  },
+  "..\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal": {
+    "id": 59343,
+    "files": [
+      "static/chunks/9343.62f8833d92b0c75c.js"
+    ]
+  },
+  "..\\node_modules\\@walletconnect\\modal\\dist\\index.js -> @walletconnect/modal-ui": {
+    "id": 23964,
+    "files": [
+      "static/chunks/3964.a7adea48e52b391e.js"
+    ]
+  },
+  "..\\node_modules\\viem\\dist\\esm\\actions\\public\\call.js -> ../../utils/ccip.js": {
+    "id": 33646,
+    "files": [
+      "static/chunks/3646.111aba596062de80.js"
+    ]
+  },
+  "..\\node_modules\\viem\\dist\\esm\\utils\\rpc.js -> isomorphic-ws": {
+    "id": 46792,
+    "files": [
+      "static/chunks/6792.21c0a037a431b9f4.js"
+    ]
+  },
+  "..\\node_modules\\viem\\dist\\esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1": {
+    "id": null,
+    "files": []
+  },
+  "_app.tsx -> ../app/components/commons/Web3ProviderNetwork": {
+    "id": 63133,
+    "files": [
+      "static/chunks/3133.97ed8935acae1ed5.js"
+    ]
+  }
+}
